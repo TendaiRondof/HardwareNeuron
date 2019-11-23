@@ -9669,6 +9669,11 @@ Source: http://www.semiconductors.philips.com/acrobat_download/datasheets/74HC_H
 <junction x="172.72" y="121.92"/>
 <label x="175.26" y="121.92" size="1.778" layer="95"/>
 </segment>
+<segment>
+<wire x1="279.4" y1="124.46" x2="271.78" y2="124.46" width="0.1524" layer="91"/>
+<label x="276.86" y="124.46" size="1.778" layer="95"/>
+<pinref part="R1" gate="G$1" pin="2"/>
+</segment>
 </net>
 <net name="OUT3" class="0">
 <segment>
@@ -10108,13 +10113,6 @@ Source: http://www.semiconductors.philips.com/acrobat_download/datasheets/74HC_H
 <label x="132.08" y="76.2" size="1.778" layer="95"/>
 <wire x1="132.08" y1="78.74" x2="132.08" y2="73.66" width="0.1524" layer="91"/>
 <pinref part="IC6" gate="A" pin="OE"/>
-</segment>
-</net>
-<net name="OUT" class="0">
-<segment>
-<wire x1="279.4" y1="124.46" x2="271.78" y2="124.46" width="0.1524" layer="91"/>
-<label x="276.86" y="124.46" size="1.778" layer="95"/>
-<pinref part="R1" gate="G$1" pin="2"/>
 </segment>
 </net>
 <net name="X_2" class="0">
