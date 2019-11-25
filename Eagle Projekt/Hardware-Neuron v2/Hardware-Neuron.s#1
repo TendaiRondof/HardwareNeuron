@@ -10053,6 +10053,15 @@ Source: http://www.semiconductors.philips.com/acrobat_download/datasheets/PMLL41
 <pinref part="C12" gate="G$1" pin="1"/>
 <label x="251.46" y="-68.58" size="1.778" layer="95"/>
 </segment>
+<segment>
+<pinref part="R18" gate="G$1" pin="1"/>
+<pinref part="Q13" gate="G$1" pin="C"/>
+<wire x1="373.38" y1="-71.12" x2="373.38" y2="-63.5" width="0.1524" layer="91"/>
+<wire x1="373.38" y1="-63.5" x2="373.38" y2="-55.88" width="0.1524" layer="91"/>
+<wire x1="373.38" y1="-63.5" x2="378.46" y2="-63.5" width="0.1524" layer="91"/>
+<junction x="373.38" y="-63.5"/>
+<label x="375.92" y="-63.5" size="1.778" layer="95"/>
+</segment>
 </net>
 <net name="OUT_6" class="0">
 <segment>
@@ -10398,17 +10407,6 @@ Source: http://www.semiconductors.philips.com/acrobat_download/datasheets/PMLL41
 <wire x1="365.76" y1="-73.66" x2="365.76" y2="-78.74" width="0.1524" layer="91"/>
 <wire x1="358.14" y1="-73.66" x2="365.76" y2="-73.66" width="0.1524" layer="91"/>
 <junction x="365.76" y="-73.66"/>
-</segment>
-</net>
-<net name="OP_OUT" class="0">
-<segment>
-<pinref part="R18" gate="G$1" pin="1"/>
-<pinref part="Q13" gate="G$1" pin="C"/>
-<wire x1="373.38" y1="-71.12" x2="373.38" y2="-63.5" width="0.1524" layer="91"/>
-<wire x1="373.38" y1="-63.5" x2="373.38" y2="-55.88" width="0.1524" layer="91"/>
-<wire x1="373.38" y1="-63.5" x2="378.46" y2="-63.5" width="0.1524" layer="91"/>
-<junction x="373.38" y="-63.5"/>
-<label x="375.92" y="-63.5" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="N$30" class="0">
@@ -11012,6 +11010,13 @@ Source: http://www.semiconductors.philips.com/acrobat_download/datasheets/PMLL41
 <wire x1="78.74" y1="109.22" x2="83.82" y2="109.22" width="0.1524" layer="91"/>
 <junction x="78.74" y="109.22"/>
 <label x="81.28" y="109.22" size="1.778" layer="95"/>
+</segment>
+</net>
+<net name="N$13" class="0">
+<segment>
+<pinref part="D3" gate="G$1" pin="A"/>
+<pinref part="D2" gate="G$1" pin="C"/>
+<wire x1="365.76" y1="-86.36" x2="365.76" y2="-83.82" width="0.1524" layer="91"/>
 </segment>
 </net>
 </nets>
