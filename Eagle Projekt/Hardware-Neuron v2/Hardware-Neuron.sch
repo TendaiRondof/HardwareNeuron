@@ -8779,7 +8779,7 @@ Source: http://www.semiconductors.philips.com/acrobat_download/datasheets/PMLL41
 </classes>
 <parts>
 <part name="R11" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R1206" package3d_urn="urn:adsk.eagle:package:23540/2" value="1k"/>
-<part name="C10" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C1206" package3d_urn="urn:adsk.eagle:package:23618/2"/>
+<part name="C10" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C1206" package3d_urn="urn:adsk.eagle:package:23618/2" value="10n"/>
 <part name="Q11" library="transistor-small-signal" library_urn="urn:adsk.eagle:library:401" deviceset="BSS123" device="" package3d_urn="urn:adsk.eagle:package:28738/2"/>
 <part name="GND11" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="0V" device=""/>
 <part name="P+3" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="+5V" device=""/>
@@ -8816,10 +8816,10 @@ Source: http://www.semiconductors.philips.com/acrobat_download/datasheets/PMLL41
 <part name="T2" library="transistor" library_urn="urn:adsk.eagle:library:402" deviceset="BC846" device="" package3d_urn="urn:adsk.eagle:package:28738/2"/>
 <part name="Q13" library="transistor-pnp" library_urn="urn:adsk.eagle:library:399" deviceset="BCX71SMD" device="" package3d_urn="urn:adsk.eagle:package:28738/2"/>
 <part name="T3" library="transistor" library_urn="urn:adsk.eagle:library:402" deviceset="BC846" device="" package3d_urn="urn:adsk.eagle:package:28738/2"/>
-<part name="R15" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R1206" package3d_urn="urn:adsk.eagle:package:23540/2"/>
-<part name="R16" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R1206" package3d_urn="urn:adsk.eagle:package:23540/2"/>
-<part name="R17" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R1206" package3d_urn="urn:adsk.eagle:package:23540/2"/>
-<part name="R18" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R1206" package3d_urn="urn:adsk.eagle:package:23540/2"/>
+<part name="R15" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R1206" package3d_urn="urn:adsk.eagle:package:23540/2" value="1k"/>
+<part name="R16" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R1206" package3d_urn="urn:adsk.eagle:package:23540/2" value="1k"/>
+<part name="R17" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R1206" package3d_urn="urn:adsk.eagle:package:23540/2" value="1k"/>
+<part name="R18" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R1206" package3d_urn="urn:adsk.eagle:package:23540/2" value="1k"/>
 <part name="D2" library="diode" library_urn="urn:adsk.eagle:library:210" deviceset="PMLL41*" device="SOD80C" package3d_urn="urn:adsk.eagle:package:43405/2"/>
 <part name="D3" library="diode" library_urn="urn:adsk.eagle:library:210" deviceset="PMLL41*" device="SOD80C" package3d_urn="urn:adsk.eagle:package:43405/2"/>
 <part name="P+5" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="+5V" device=""/>
@@ -8833,11 +8833,11 @@ Source: http://www.semiconductors.philips.com/acrobat_download/datasheets/PMLL41
 <part name="Q19" library="transistor-small-signal" library_urn="urn:adsk.eagle:library:401" deviceset="BSS123" device="" package3d_urn="urn:adsk.eagle:package:28738/2"/>
 <part name="Q20" library="transistor-small-signal" library_urn="urn:adsk.eagle:library:401" deviceset="BSS123" device="" package3d_urn="urn:adsk.eagle:package:28738/2"/>
 <part name="Q21" library="transistor-small-signal" library_urn="urn:adsk.eagle:library:401" deviceset="BSS123" device="" package3d_urn="urn:adsk.eagle:package:28738/2"/>
-<part name="R19" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R1206" package3d_urn="urn:adsk.eagle:package:23540/2"/>
-<part name="R20" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R1206" package3d_urn="urn:adsk.eagle:package:23540/2"/>
-<part name="R21" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R1206" package3d_urn="urn:adsk.eagle:package:23540/2"/>
-<part name="R22" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R1206" package3d_urn="urn:adsk.eagle:package:23540/2"/>
-<part name="R23" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R1206" package3d_urn="urn:adsk.eagle:package:23540/2"/>
+<part name="R19" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R1206" package3d_urn="urn:adsk.eagle:package:23540/2" value="1k"/>
+<part name="R20" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R1206" package3d_urn="urn:adsk.eagle:package:23540/2" value="1k"/>
+<part name="R21" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R1206" package3d_urn="urn:adsk.eagle:package:23540/2" value="1k"/>
+<part name="R22" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R1206" package3d_urn="urn:adsk.eagle:package:23540/2" value="1k"/>
+<part name="R23" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R1206" package3d_urn="urn:adsk.eagle:package:23540/2" value="1k"/>
 <part name="GND15" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="0V" device=""/>
 <part name="GND16" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="0V" device=""/>
 <part name="GND17" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="0V" device=""/>
@@ -8947,8 +8947,8 @@ Source: http://www.semiconductors.philips.com/acrobat_download/datasheets/PMLL41
 <part name="P+18" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="+5V" device=""/>
 <part name="P+19" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="+5V" device=""/>
 <part name="P+20" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="+5V" device=""/>
-<part name="R9" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R1206" package3d_urn="urn:adsk.eagle:package:23540/2"/>
-<part name="R10" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R1206" package3d_urn="urn:adsk.eagle:package:23540/2"/>
+<part name="R9" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R1206" package3d_urn="urn:adsk.eagle:package:23540/2" value="1k"/>
+<part name="R10" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R1206" package3d_urn="urn:adsk.eagle:package:23540/2" value="1k"/>
 </parts>
 <sheets>
 <sheet>
@@ -9003,6 +9003,10 @@ Source: http://www.semiconductors.philips.com/acrobat_download/datasheets/PMLL41
 <text x="33.02" y="-35.56" size="1.778" layer="97">Delta Apply X2</text>
 <text x="119.38" y="-35.56" size="1.778" layer="97">Delta Apply X3</text>
 <text x="210.82" y="193.04" size="1.778" layer="97">Delta Apply Bias</text>
+<text x="118.618" y="131.318" size="1.778" layer="97">muss bei 1.
+prototyp 
+manuell verbunden
+werden</text>
 </plain>
 <instances>
 <instance part="R11" gate="G$1" x="248.92" y="-96.52" smashed="yes" rot="R270">
@@ -9034,8 +9038,8 @@ Source: http://www.semiconductors.philips.com/acrobat_download/datasheets/PMLL41
 <instance part="GND1" gate="1" x="167.64" y="116.84" smashed="yes">
 <attribute name="VALUE" x="165.735" y="114.3" size="1.778" layer="96"/>
 </instance>
-<instance part="P+1" gate="1" x="149.86" y="142.24" smashed="yes">
-<attribute name="VALUE" x="152.4" y="142.24" size="1.778" layer="96"/>
+<instance part="P+1" gate="1" x="149.86" y="139.7" smashed="yes">
+<attribute name="VALUE" x="152.4" y="139.7" size="1.778" layer="96"/>
 </instance>
 <instance part="R12" gate="G$1" x="195.58" y="71.12" smashed="yes" rot="R90">
 <attribute name="NAME" x="194.0814" y="67.31" size="1.778" layer="95" rot="R90"/>
@@ -9750,6 +9754,12 @@ Source: http://www.semiconductors.philips.com/acrobat_download/datasheets/PMLL41
 <wire x1="241.3" y1="137.16" x2="243.84" y2="137.16" width="0.1524" layer="91"/>
 <junction x="243.84" y="137.16"/>
 </segment>
+<segment>
+<pinref part="Q1" gate="G$1" pin="S"/>
+<pinref part="P+1" gate="1" pin="+5V"/>
+<wire x1="149.86" y1="137.16" x2="149.86" y2="132.08" width="0.1524" layer="91"/>
+<label x="152.4" y="134.62" size="1.778" layer="95"/>
+</segment>
 </net>
 <net name="0V" class="0">
 <segment>
@@ -10159,13 +10169,6 @@ Source: http://www.semiconductors.philips.com/acrobat_download/datasheets/PMLL41
 <pinref part="SV1" gate="G$1" pin="2"/>
 <wire x1="198.12" y1="104.14" x2="200.66" y2="104.14" width="0.1524" layer="91"/>
 <label x="198.12" y="104.14" size="1.778" layer="95"/>
-</segment>
-</net>
-<net name="X_X" class="0">
-<segment>
-<pinref part="Q1" gate="G$1" pin="S"/>
-<pinref part="P+1" gate="1" pin="+5V"/>
-<wire x1="149.86" y1="139.7" x2="149.86" y2="132.08" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="DELTA" class="0">
@@ -10908,12 +10911,26 @@ Source: http://www.semiconductors.philips.com/acrobat_download/datasheets/PMLL41
 <junction x="299.72" y="48.26"/>
 </segment>
 </net>
+<net name="N$15" class="0">
+<segment>
+<wire x1="116.84" y1="142.24" x2="142.24" y2="142.24" width="0.1524" layer="91"/>
+<wire x1="142.24" y1="142.24" x2="142.24" y2="129.54" width="0.1524" layer="91"/>
+<wire x1="142.24" y1="129.54" x2="116.84" y2="129.54" width="0.1524" layer="91"/>
+<wire x1="116.84" y1="129.54" x2="116.84" y2="134.62" width="0.1524" layer="91"/>
+<wire x1="116.84" y1="137.16" x2="116.84" y2="142.24" width="0.1524" layer="91"/>
+<wire x1="116.84" y1="137.16" x2="116.84" y2="134.62" width="0.1524" layer="91"/>
+</segment>
+</net>
 </nets>
 </sheet>
 </sheets>
 </schematic>
 </drawing>
 <compatibility>
+<note version="6.3" minversion="6.2.2" severity="warning">
+Since Version 6.2.2 text objects can contain more than one line,
+which will not be processed correctly with this version.
+</note>
 <note version="8.2" severity="warning">
 Since Version 8.2, EAGLE supports online libraries. The ids
 of those online libraries will not be understood (or retained)
