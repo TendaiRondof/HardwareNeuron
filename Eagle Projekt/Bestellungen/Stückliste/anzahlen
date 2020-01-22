@@ -1,0 +1,112 @@
+Partlist
+
+Exported from Hardware-Neuron.brd at 20.01.2020 08:34
+
+EAGLE Version 9.3.0 Copyright (c) 1988-2019 Autodesk, Inc.
+
+Assembly variant: 
+
+Part     Value          Package    Library                 Position (mm)         Orientation
+
+C1       10n            C0805      rcl                     (57.658 84.074)       R270
+C2       10n            C0805      rcl                     (57.658 78.994)       R270
+C3       10n            C0805      rcl                     (57.658 73.914)       R270
+C5       100n           C0805      rcl                     (11.43 60.96)         R270
+C6       100n           C0805      rcl                     (38.1 69.85)          R270
+C7       10n            C0805      rcl                     (57.658 68.834)       R90
+C9       100n           C0805      rcl                     (16.51 34.29)         R270
+C10      10u            C0805      rcl                     (52.07 48.26)         R0
+C11      10n            C0805      rcl                     (33.02 38.1)          R0
+C12      100n           C0805      rcl                     (15.24 8.89)          R270
+C13      10n            C0805      rcl                     (33.02 24.13)         R180
+D1       BAT60J         SOD323_ST  diode                   (21.59 83.82)         R180
+D2       BAT60J         SOD323_ST  diode                   (46.99 83.82)         R90
+D3       BAT60J         SOD323_ST  diode                   (21.59 27.94)         R180
+D4       BAT60J         SOD323_ST  diode                   (22.86 52.07)         R180
+D6       PMLL41SOD80C   SOD80C     diode                   (44.45 34.29)         R90
+D7       PMLL41SOD80C   SOD80C     diode                   (41.91 29.21)         R90
+D8       BAT60J         SOD323_ST  diode                   (50.8 22.86)          R180
+Q1       FDN360P        SUPER-SOT3 transistor-power        (53.848 85.344)       R90
+Q2       BCX71SMD       SOT23      transistor-pnp          (16.51 81.28)         R0
+Q3       BCX71SMD       SOT23      transistor-pnp          (43.18 83.82)         R0
+Q4       FDN360P        SUPER-SOT3 transistor-power        (53.848 80.264)       R90
+Q5       FDN360P        SUPER-SOT3 transistor-power        (53.848 75.184)       R90
+Q6       BSS123         SOT23      transistor-small-signal (39.37 77.47)         R0
+Q7       BSS123         SOT23      transistor-small-signal (11.43 69.85)         R0
+Q8       BSS123         SOT23      transistor-small-signal (34.29 76.2)          R0
+Q10      BSS123         SOT23      transistor-small-signal (7.62 67.31)          R0
+Q11      BSS123         SOT23      transistor-small-signal (41.91 72.39)         R0
+Q12      BSS123         SOT23      transistor-small-signal (15.24 66.04)         R0
+Q13      FDN360P        SUPER-SOT3 transistor-power        (53.848 70.104)       R90
+Q15      BCX71SMD       SOT23      transistor-pnp          (17.78 50.8)          R0
+Q17      BSS123         SOT23      transistor-small-signal (12.7 43.18)          R0
+Q19      BSS123         SOT23      transistor-small-signal (8.89 40.64)          R0
+Q21      BSS123         SOT23      transistor-small-signal (21.59 39.37)         R0
+Q22      BCX71SMD       SOT23      transistor-pnp          (43.18 49.53)         R180
+Q23      BCX71SMD       SOT23      transistor-pnp          (16.51 25.4)          R0
+Q24      BSS123         SOT23      transistor-small-signal (36.83 10.16)         R90
+Q25      BSS123         SOT23      transistor-small-signal (36.83 15.24)         R90
+Q26      BSS123         SOT23      transistor-small-signal (41.91 5.08)          R90
+Q27      BSS123         SOT23      transistor-small-signal (41.91 10.16)         R90
+Q28      BSS123         SOT23      transistor-small-signal (41.91 15.24)         R90
+Q29      BSS123         SOT23      transistor-small-signal (12.7 16.51)          R0
+Q30      BSS123         SOT23      transistor-small-signal (8.89 13.97)          R0
+Q31      BSS123         SOT23      transistor-small-signal (20.32 13.97)         R0
+Q32      BSS123         SOT23      transistor-small-signal (33.02 31.75)         R90
+Q33      BSS123         SOT23      transistor-small-signal (53.34 8.89)          R90
+Q34      BSS123         SOT23      transistor-small-signal (53.34 12.7)          R90
+Q35      BSS123         SOT23      transistor-small-signal (40.64 22.86)         R180
+Q36      BSS123         SOT23      transistor-small-signal (45.72 22.86)         R90
+Q37      BSS123         SOT23      transistor-small-signal (58.42 12.7)          R90
+R1       1kE            M0805      rcl                     (5.08 78.74)          R90
+R2       1kE            M0805      rcl                     (8.89 78.74)          R90
+R3       1kE            M0805      rcl                     (11.43 78.74)         R90
+R4       1kE            M0805      rcl                     (30.48 82.55)         R90
+R5       1kE            M0805      rcl                     (34.29 82.55)         R90
+R6       1kE            M0805      rcl                     (38.1 82.55)          R90
+R7       10ME           M0805      rcl                     (21.59 77.47)         R0
+R8       10ME           M0805      rcl                     (45.212 73.787)       R270
+R9       1kE            M0805      rcl                     (29.21 73.66)         R90
+R10      1kE            M0805      rcl                     (5.08 62.23)          R90
+R11      1kE            M0805      rcl                     (8.89 60.96)          R90
+R12      1kE            M0805      rcl                     (13.97 60.96)         R90
+R13      1kE            M0805      rcl                     (33.02 69.85)         R90
+R14      1kE            M0805      rcl                     (35.56 69.85)         R90
+R19      1kE            M0805      rcl                     (6.35 50.8)           R90
+R20      1kE            M0805      rcl                     (10.16 50.8)          R90
+R21      1kE            M0805      rcl                     (13.97 50.8)          R90
+R22      10ME           M0805      rcl                     (22.86 46.99)         R0
+R24      1kE            M0805      rcl                     (5.08 36.83)          R90
+R27      1kE            M0805      rcl                     (11.43 34.29)         R90
+R28      1kE            M0805      rcl                     (13.97 34.29)         R90
+R29      1k             M0805      rcl                     (30.48 10.16)         R180
+R30      1k             M0805      rcl                     (30.48 15.24)         R180
+R31      1k             M0805      rcl                     (38.1 49.53)          R270
+R32      1k             M0805      rcl                     (5.08 25.4)           R90
+R33      1k             M0805      rcl                     (35.56 5.08)          R180
+R34      1k             M0805      rcl                     (10.16 22.86)         R90
+R35      1k             M0805      rcl                     (12.7 22.86)          R90
+R36      10M            M0805      rcl                     (21.59 22.86)         R0
+R37      1k             M0805      rcl                     (44.45 43.18)         R270
+R38      10k            M0805      rcl                     (52.07 38.1)          R90
+R39      1k             M0805      rcl                     (33.02 35.56)         R180
+R40      1k             M0805      rcl                     (48.26 34.29)         R270
+R41      1k             M0805      rcl                     (46.99 8.89)          R0
+R42      1k             M0805      rcl                     (46.99 12.7)          R0
+R43      1k             M0805      rcl                     (5.08 11.43)          R90
+R44      1k             M0805      rcl                     (10.16 8.89)          R90
+R45      1k             M0805      rcl                     (12.7 8.89)           R90
+R46      1k             M0805      rcl                     (38.1 29.21)          R270
+R47      10k            M0805      rcl                     (33.02 27.94)         R180
+R48      10k            M0805      rcl                     (46.99 27.94)         R180
+R49      1k             M0805      rcl                     (53.34 27.94)         R0
+R50      1k             M0805      rcl                     (20.32 6.35)          R90
+R51      1k             M0805      rcl                     (12.7 5.08)           R180
+SV1                     ML10       con-harting-ml          (44.45 59.69)         R0
+T1       BC846          SOT23      transistor              (16.51 74.93)         R0
+T2       BC846          SOT23      transistor              (43.18 78.74)         R0
+T4       BC846          SOT23      transistor              (17.78 45.72)         R0
+T5       BC846          SOT23      transistor              (31.75 43.18)         R0
+T6       BC846          SOT23      transistor              (38.1 43.18)          R0
+T7       BC846          SOT23      transistor              (16.51 19.05)         R0
+T8       BC846          SOT23      transistor              (38.1 36.83)          R180

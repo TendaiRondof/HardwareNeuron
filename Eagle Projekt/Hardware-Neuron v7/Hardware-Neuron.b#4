@@ -86,24 +86,31 @@
 <wire x1="1.27" y1="54.61" x2="1.27" y2="87.63" width="0.1524" layer="48"/>
 <wire x1="1.27" y1="87.63" x2="26.67" y2="87.63" width="0.1524" layer="48"/>
 <wire x1="26.67" y1="87.63" x2="48.26" y2="87.63" width="0.1524" layer="48"/>
-<wire x1="26.67" y1="66.04" x2="26.67" y2="87.63" width="0.1524" layer="48"/>
+<wire x1="26.67" y1="64.77" x2="26.67" y2="87.63" width="0.1524" layer="48"/>
 <wire x1="27.94" y1="1.27" x2="27.94" y2="17.78" width="0.1524" layer="48"/>
 <wire x1="27.94" y1="17.78" x2="60.96" y2="17.78" width="0.1524" layer="48"/>
 <wire x1="60.96" y1="17.78" x2="60.96" y2="1.27" width="0.1524" layer="48"/>
 <wire x1="60.96" y1="1.27" x2="27.94" y2="1.27" width="0.1524" layer="48"/>
-<wire x1="49.53" y1="66.04" x2="60.96" y2="66.04" width="0.1524" layer="48"/>
-<wire x1="60.96" y1="66.04" x2="60.96" y2="87.63" width="0.1524" layer="48"/>
+<wire x1="49.53" y1="64.77" x2="60.96" y2="64.77" width="0.1524" layer="48"/>
+<wire x1="60.96" y1="64.77" x2="60.96" y2="87.63" width="0.1524" layer="48"/>
 <wire x1="60.96" y1="87.63" x2="49.53" y2="87.63" width="0.1524" layer="48"/>
 <wire x1="27.94" y1="53.34" x2="60.96" y2="53.34" width="0.1524" layer="48"/>
 <wire x1="60.96" y1="53.34" x2="60.96" y2="19.05" width="0.1524" layer="48"/>
 <wire x1="60.96" y1="19.05" x2="27.94" y2="19.05" width="0.1524" layer="48"/>
 <wire x1="27.94" y1="19.05" x2="27.94" y2="53.34" width="0.1524" layer="48"/>
-<wire x1="26.67" y1="66.04" x2="48.26" y2="66.04" width="0.1524" layer="48"/>
+<wire x1="26.67" y1="64.77" x2="48.26" y2="64.77" width="0.1524" layer="48"/>
 <wire x1="26.67" y1="30.48" x2="26.67" y2="54.61" width="0.1524" layer="48"/>
 <wire x1="26.67" y1="54.61" x2="1.27" y2="54.61" width="0.1524" layer="48"/>
-<wire x1="26.67" y1="66.04" x2="26.67" y2="54.61" width="0.1524" layer="48"/>
-<wire x1="48.26" y1="66.04" x2="48.26" y2="87.63" width="0.1524" layer="48"/>
-<wire x1="49.53" y1="66.04" x2="49.53" y2="87.63" width="0.1524" layer="48"/>
+<wire x1="26.67" y1="64.77" x2="26.67" y2="54.61" width="0.1524" layer="48"/>
+<wire x1="48.26" y1="64.77" x2="48.26" y2="87.63" width="0.1524" layer="48"/>
+<wire x1="49.53" y1="64.77" x2="49.53" y2="87.63" width="0.1524" layer="48"/>
+<text x="28.321" y="51.943" size="1.2" layer="48">Vergleicher und Komparator</text>
+<text x="27.051" y="86.106" size="1.2" layer="48">Delta Apply X0</text>
+<text x="1.651" y="86.106" size="1.2" layer="48">Delta Apply X1</text>
+<text x="1.524" y="53.086" size="1.2" layer="48">Delta Apply X2</text>
+<text x="1.524" y="28.956" size="1.2" layer="48">Delta Apply Bias</text>
+<text x="50.038" y="65.151" size="1.2" layer="48">Input</text>
+<text x="52.578" y="16.002" size="1.2" layer="48">Delta Calc</text>
 </plain>
 <libraries>
 <library name="rcl" urn="urn:adsk.eagle:library:334">
@@ -2268,10 +2275,10 @@ design rules under a new name.</description>
 <wire x1="42.9768" y1="16.3576" x2="43.01" y2="16.19" width="0.3048" layer="1"/>
 <wire x1="39.5478" y1="23.9014" x2="39.69" y2="23.96" width="0.3048" layer="1"/>
 <polygon width="0.1524" layer="1">
-<vertex x="-2.54" y="-2.54"/>
-<vertex x="64.77" y="-2.54"/>
-<vertex x="64.77" y="91.44"/>
-<vertex x="-2.54" y="91.44"/>
+<vertex x="0" y="0"/>
+<vertex x="62.23" y="0"/>
+<vertex x="62.23" y="88.519"/>
+<vertex x="0" y="88.519"/>
 </polygon>
 </signal>
 <signal name="Y_">
