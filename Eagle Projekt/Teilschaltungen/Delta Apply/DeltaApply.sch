@@ -8164,16 +8164,16 @@ Source: www.st.com, BAT60J.pdf</description>
 <attribute name="VALUE" x="54.61" y="48.768" size="1.778" layer="96"/>
 </instance>
 <instance part="T2" gate="G$1" x="48.26" y="44.45" smashed="yes">
-<attribute name="NAME" x="40.64" y="49.53" size="1.778" layer="95"/>
-<attribute name="VALUE" x="40.64" y="46.99" size="1.778" layer="96"/>
+<attribute name="NAME" x="50.8" y="41.91" size="1.778" layer="95"/>
+<attribute name="VALUE" x="50.8" y="44.45" size="1.778" layer="96"/>
 </instance>
 <instance part="R6" gate="G$1" x="38.1" y="52.07" smashed="yes" rot="R90">
 <attribute name="NAME" x="36.6014" y="48.26" size="1.778" layer="95" rot="R90"/>
 <attribute name="VALUE" x="41.402" y="48.26" size="1.778" layer="96" rot="R90"/>
 </instance>
 <instance part="R4" gate="G$1" x="30.48" y="46.99" smashed="yes" rot="R90">
-<attribute name="NAME" x="28.9814" y="43.18" size="1.778" layer="95" rot="R90"/>
-<attribute name="VALUE" x="33.782" y="43.18" size="1.778" layer="96" rot="R90"/>
+<attribute name="NAME" x="28.9814" y="45.72" size="1.778" layer="95" rot="R90"/>
+<attribute name="VALUE" x="33.782" y="45.72" size="1.778" layer="96" rot="R90"/>
 </instance>
 <instance part="R5" gate="G$1" x="25.4" y="44.45" smashed="yes" rot="R90">
 <attribute name="NAME" x="23.9014" y="40.64" size="1.778" layer="95" rot="R90"/>
@@ -8197,7 +8197,7 @@ Source: www.st.com, BAT60J.pdf</description>
 </instance>
 <instance part="Q8" gate="G$1" x="25.4" y="26.67" smashed="yes">
 <attribute name="NAME" x="27.686" y="28.956" size="1.778" layer="95"/>
-<attribute name="VALUE" x="27.686" y="27.178" size="1.778" layer="96"/>
+<attribute name="VALUE" x="27.686" y="24.638" size="1.778" layer="96"/>
 </instance>
 <instance part="Q11" gate="G$1" x="71.12" y="24.13" smashed="yes">
 <attribute name="NAME" x="73.406" y="26.416" size="1.778" layer="95"/>
