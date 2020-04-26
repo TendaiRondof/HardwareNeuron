@@ -10135,23 +10135,23 @@ werden</text>
 <attribute name="NAME" x="113.03" y="-191.516" size="1.778" layer="95" rot="R180"/>
 <attribute name="TP_SIGNAL_NAME" x="109.22" y="-189.23" size="1.778" layer="97" rot="R90"/>
 </instance>
-<instance part="EN" gate="G$1" x="-33.02" y="-172.72" smashed="yes" rot="R90">
-<attribute name="NAME" x="-26.67" y="-173.736" size="1.778" layer="95" rot="R180"/>
-<attribute name="TP_SIGNAL_NAME" x="-30.48" y="-171.45" size="1.778" layer="97" rot="R90"/>
+<instance part="EN" gate="G$1" x="10.16" y="-182.88" smashed="yes" rot="R90">
+<attribute name="NAME" x="16.51" y="-183.896" size="1.778" layer="95" rot="R180"/>
+<attribute name="TP_SIGNAL_NAME" x="12.7" y="-181.61" size="1.778" layer="97" rot="R90"/>
 </instance>
-<instance part="0V" gate="G$1" x="-15.24" y="-172.72" smashed="yes" rot="R270">
-<attribute name="NAME" x="-21.59" y="-171.704" size="1.778" layer="95"/>
-<attribute name="TP_SIGNAL_NAME" x="-17.78" y="-173.99" size="1.778" layer="97" rot="R270"/>
+<instance part="0V" gate="G$1" x="20.32" y="-177.8" smashed="yes" rot="R270">
+<attribute name="NAME" x="13.97" y="-176.784" size="1.778" layer="95"/>
+<attribute name="TP_SIGNAL_NAME" x="17.78" y="-179.07" size="1.778" layer="97" rot="R270"/>
 </instance>
-<instance part="GND15" gate="1" x="-10.16" y="-177.8" smashed="yes">
-<attribute name="VALUE" x="-12.065" y="-180.34" size="1.778" layer="96"/>
+<instance part="GND15" gate="1" x="22.86" y="-182.88" smashed="yes">
+<attribute name="VALUE" x="20.955" y="-185.42" size="1.778" layer="96"/>
 </instance>
-<instance part="+5V" gate="G$1" x="-15.24" y="-165.1" smashed="yes" rot="R270">
-<attribute name="NAME" x="-21.59" y="-164.084" size="1.778" layer="95"/>
-<attribute name="TP_SIGNAL_NAME" x="-17.78" y="-166.37" size="1.778" layer="97" rot="R270"/>
+<instance part="+5V" gate="G$1" x="20.32" y="-170.18" smashed="yes" rot="R270">
+<attribute name="NAME" x="13.97" y="-169.164" size="1.778" layer="95"/>
+<attribute name="TP_SIGNAL_NAME" x="17.78" y="-171.45" size="1.778" layer="97" rot="R270"/>
 </instance>
-<instance part="P+9" gate="1" x="-10.16" y="-160.02" smashed="yes">
-<attribute name="VALUE" x="-12.7" y="-165.1" size="1.778" layer="96" rot="R90"/>
+<instance part="P+9" gate="1" x="22.86" y="-165.1" smashed="yes">
+<attribute name="VALUE" x="20.32" y="-165.1" size="1.778" layer="96"/>
 </instance>
 </instances>
 <busses>
@@ -10263,9 +10263,8 @@ werden</text>
 </segment>
 <segment>
 <pinref part="P+9" gate="1" pin="+5V"/>
-<wire x1="-10.16" y1="-162.56" x2="-10.16" y2="-165.1" width="0.1524" layer="91"/>
+<wire x1="22.86" y1="-167.64" x2="22.86" y2="-170.18" width="0.1524" layer="91"/>
 <pinref part="+5V" gate="G$1" pin="TP"/>
-<wire x1="-10.16" y1="-165.1" x2="-12.7" y2="-165.1" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="0V" class="0">
@@ -10466,8 +10465,7 @@ werden</text>
 <segment>
 <pinref part="GND15" gate="1" pin="0V"/>
 <pinref part="0V" gate="G$1" pin="TP"/>
-<wire x1="-10.16" y1="-175.26" x2="-10.16" y2="-172.72" width="0.1524" layer="91"/>
-<wire x1="-10.16" y1="-172.72" x2="-12.7" y2="-172.72" width="0.1524" layer="91"/>
+<wire x1="22.86" y1="-180.34" x2="22.86" y2="-177.8" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="Y_" class="0">
@@ -10754,8 +10752,8 @@ werden</text>
 </segment>
 <segment>
 <pinref part="EN" gate="G$1" pin="TP"/>
-<wire x1="-35.56" y1="-172.72" x2="-40.64" y2="-172.72" width="0.1524" layer="91"/>
-<label x="-40.64" y="-172.72" size="1.778" layer="95"/>
+<wire x1="7.62" y1="-182.88" x2="2.54" y2="-182.88" width="0.1524" layer="91"/>
+<label x="2.54" y="-182.88" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="N$6" class="0">
